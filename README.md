@@ -1,4 +1,7 @@
-## Hi there 👋
+Name: Abhinav Naresh Naroju
+Reg. No.: 25BCE11065
+Branch: Computer Science(Core)
+Year: 1st Year
 
 <!--
 **abhinav25bce11065-svg/abhinav25bce11065-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
